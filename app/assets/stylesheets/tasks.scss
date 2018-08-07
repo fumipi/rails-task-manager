@@ -1,0 +1,15 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#danger {
+  background-color: red;
+  color: white;
+  text-decoration: none;
+}
+
+li{
+  display: flex;
+  font-size: 12px;
+  font-weight: light;
+}
